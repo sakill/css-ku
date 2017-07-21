@@ -1,0 +1,38 @@
+// 网址：www.sakill.com
+// 作者：sakill；
+
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+}
+
+.po_re{
+	position: relative;
+}
+.p_10{
+	padding:10px;
+}
+.p_r_10px{
+	padding-right: 10px;
+}
+.p_l_10px{
+	padding-left: 10px;
+}
+.p_b_10{
+	padding-top: 10px;
+}
+.p_t_10{
+	padding-bottom: 10px;
+}
+.zin100{
+	z-index: 100;
+}
+.clear{
+	clear: both;
+}
+.clear:after{
+	display: block;
+	content: "";
+	clear: both;
+}
